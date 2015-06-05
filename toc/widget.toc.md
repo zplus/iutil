@@ -62,3 +62,5 @@
     oToc.innerHTML = html;
 })(window);
 ```
+
+[demo](http://jsbin.com/fetohu/3/edit?html,css,js,output)
