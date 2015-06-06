@@ -81,4 +81,4 @@
 })(window);
 ```
 
-[demo](http://jsbin.com/fetohu/3/edit?html,css,js,output)
+[demo](http://jsbin.com/fetohu/4/edit?html,css,js,output)
