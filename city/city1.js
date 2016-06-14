@@ -14,6 +14,8 @@
         </select>
     </div>
 </div>
+
+renderCitySelect('field_province', 'field_city', 'field_district', info.province, info.city, info.district);
 **/
 
 
